@@ -1,0 +1,24 @@
+{
+  "name": "@rasch/imgur-cli",
+  "version": "0.1.0",
+  "description": "a CLI to upload images to imgur",
+  "type": "module",
+  "bin": {
+    "imgur": "imgur.js"
+  },
+  "files": [
+    "imgur.js"
+  ],
+  "keywords": [
+    "imgur",
+    "upload",
+    "image",
+    "share"
+  ],
+  "author": "Randy Schneck <i@rasch.co>",
+  "license": "0BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasch/imgur-cli.git"
+  }
+}
